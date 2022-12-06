@@ -1,8 +1,11 @@
- 
+Envío por correo electrónic dirigido a: 
 
-ORDEN
+Para: asistentemaestriaing@javerianacali.edu.co
+copia: lfrincon@javerianacali.edu.co 
 
- 
+
+
+ORDEN para entregar un único PDF con:
 
 •         Carta presentación anteproyecto (en una sola hoja) con fecha en la cual hacen la entrega del documento.
 
@@ -10,7 +13,7 @@ ORDEN
 
 •         Carta Empresa autorizando el manejo y publicación de sus datos.
 
-•         Carta aceptación Director de Tesis y Hoja de Vida (solo aplica para directores externos de la PUJ).
+•         Carta aceptación Director de Tesis
 
 •         Ficha Resumen (en una sola hoja)
 
@@ -25,3 +28,6 @@ ORDEN
 •         Texto completo del Anteproyecto
 
 •         Anexos, gráficas, etc.
+
+PDF adicionales
+* Hoja de Vida director y codirectores (solo aplica para directores externos de la PUJ).
